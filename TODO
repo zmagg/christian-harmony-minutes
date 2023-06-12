@@ -1,0 +1,7 @@
+* Write script to parse out numbers from raw minute files into Sqlite
+* Create Sqlite database (just song numbers for now, no leaders)
+* Write unit test for script
+* Manually import more years of minutes from 2010+
+* Create stub page for each song -- parse bremen? or https://www.robertkelleyphd.com/home/tuneInfo/viewInfo.php? 
+* Figure out how to draw histograms in JS
+* Create table that lets you sort by popularity, all time and by year? 
